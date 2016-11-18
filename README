@@ -1,0 +1,11 @@
+
+This repository contains configuration files for the UCLALES-SALSA
+model to reproduce experiments published in scientific journals.
+The cases are divided in branches, that can be fetched individually
+via 
+  >> git clone -b <branch> https://github.com/UCLALES-SALSA/CONFIGURATION-FILES
+
+In simple cases, these branches contain the *runles* runscript file,
+and a *sound-in* input profile, that should be used to replace the
+ones in the bin-directory of UCLALES-SALSA. If more elaborate 
+procedures are required, this will be documented for each case.
