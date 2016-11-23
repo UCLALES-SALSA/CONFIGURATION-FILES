@@ -1,7 +1,8 @@
 
 This repository contains configuration files for the UCLALES-SALSA
 model to reproduce experiments published in scientific journals.
-The cases are divided in branches, that can be fetched individually
+The cases are divided in branches named according to the corresponding
+publication (e.g. Tonttila_etal_2016_Sc), that can be fetched individually
 via 
   >> git clone -b <branch> https://github.com/UCLALES-SALSA/CONFIGURATION-FILES
 
